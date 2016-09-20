@@ -1,12 +1,4 @@
-Usage:python3 cve-scanner.py
+Usage:./php-analyzer.sh folder
+Example: ./php-analyzer.sh Joomla/
 
-You must install the shodan module for python. 
-
-Linux:
-sudo pip install shodan.
-
-Window: 
-Get linux because windows sucks.
-
-Mac:
-No clue. 
+Have fun finding em 0dayzzz
